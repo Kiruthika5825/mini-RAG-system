@@ -75,17 +75,7 @@ To set up locally, follow these general steps:
 4. Start the FastAPI server
 5. Test endpoints via browser or Postman
 
-Detailed instructions are inside the repository’s code comments and `requirements.txt`.
-
----
-
-## 🔮 Roadmap
-
-* [ ] Multi-document ingestion
-* [ ] Streamlit chat UI
-* [ ] Query caching for faster responses
-* [ ] Model switching (OpenAI ↔ NVIDIA ↔ HuggingFace)
-* [ ] Analytics dashboard
+Detailed instructions are inside the repository’s code comments
 
 
 ## 👨‍💻 Author
