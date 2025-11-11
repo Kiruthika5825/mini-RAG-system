@@ -87,26 +87,9 @@ Detailed instructions are inside the repository’s code comments and `requireme
 * [ ] Model switching (OpenAI ↔ NVIDIA ↔ HuggingFace)
 * [ ] Analytics dashboard
 
----
-
-## 💡 Pro Tip (for Developers)
-
-> Treat each service (scraping, embeddings, vector DB, inference) as a **microservice**.
-> This modular setup allows you to **scale independently** — critical for production-grade RAG systems used in enterprise AI platforms.
-
----
-
-## 🤝 Contributions
-
-Contributions, issues, and feature requests are welcome!
-Feel free to open a **Pull Request** or start a **Discussion** to collaborate.
-
----
 
 ## 👨‍💻 Author
 
 Kiruthika — Data Science & AI Enthusiast
 
 ---
-
-Would you like me to make this README **Markdown-styled with emojis, headers, and sections formatted for GitHub preview (with badges, table of contents, etc.)** — so it looks like a professional open-source repo front page?
