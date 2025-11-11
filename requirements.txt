@@ -1,9 +1,12 @@
-selenium
 requests
-urllib3
 bs4
-sentence-transformers
 streamlit
 fastapi
 uvicorn
-pymilvus
+langchain
+langchain-community 
+pymilvus 
+sentence-transformers
+python-dotenv
+langchain-milvus
+openai
