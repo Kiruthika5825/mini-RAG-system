@@ -7,7 +7,7 @@ from app.Main import (
     get_all_documents, similarity_search, reset_collection
 )
 
-app = FastAPI(title="Universal RAG API", version="1.1")
+app = FastAPI(title="Universal RAG API", version="0.0.1")
 
 
 # ===================================================
