@@ -15,7 +15,7 @@ def convert_to_langchain_docs(data):
         Document(
             page_content=item["text"],
             metadata={
-                "source": item["source"],    # FIXED
+                "source": item["source"], 
                 "title": item.get("title", ""),
                 "type": item.get("type", ""),
                 "chunk_index": item["chunk_index"]
